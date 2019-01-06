@@ -92,6 +92,6 @@ export default () => (
     />
     <Intro/>
     <Main/>
-    <footer style={{opacity: 0.3, paddingBottom: '3em'}}>© Derrek Chow 2018<br/>Made with React</footer>
+    <footer style={{opacity: 0.3, paddingBottom: '3em'}}>© Derrek Chow 2019<br/>Made with React</footer>
   </div>
 )
